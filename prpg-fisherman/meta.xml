@@ -1,0 +1,43 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="zones.lua" type="client" cache="false"/>
+	<script src="upgrades.lua" type="client" cache="false"/>
+	<script src="peds.lua" type="client" cache="false"/>
+	<script src="client_selling.lua" type="client" cache="false"/>
+	<script src="client_buying.lua" type="client" cache="false"/>
+	<script src="shared.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" />
+	<script src="prices.lua" type="server" />
+	<export function="isPlayerFishing" type="client" />
+	<export function="getAllItems" type="client" />
+	<export function="getIndex" type="client" />
+	<file src="images/water1.png"/>
+	<file src="images/water2.png"/>
+	<file src="images/water3.png"/>
+	<file src="images/bg_sell.png"/>
+	<file src="images/bg_buy.png"/>
+	<file src="images/button.png"/>
+	<file src="images/scrollpane.png"/>
+	<file src="images/fishes/Pstrag.png"/>
+	<file src="images/fishes/Tunczyk.png"/>
+	<file src="images/fishes/Wegorz.png"/>
+	<file src="images/fishes/Szczupak.png"/>
+	<file src="images/fishes/Dorsz.png"/>
+	<file src="images/fishes/Sum.png"/>
+	<file src="images/fishes/Sandacz.png"/>
+	<file src="images/fishes/Rekin.png"/>
+	<file src="images/fishes/Jesiotr.png"/>
+	<file src="images/fishes/Okon.png"/>
+	<file src="images/fishes/Lin.png"/>
+	<file src="images/fishes/Karp.png"/>
+	<file src="images/fishes/Miecznik.png"/>
+	<file src="images/fishes/Makrela.png"/>
+	<file src="images/bg.png"/>
+	<file src="images/gradient.png"/>
+	<file src="images/hook.png"/>
+	<file src="images/radar.png"/>
+	<file src="images/button_buy.png"/>
+	<file src="images/button_fix.png"/>
+	<file src="images/itemslot.png"/>
+	<file src="roboto.ttf"/>
+</meta>

@@ -1,0 +1,17 @@
+<meta>
+	<script src="/garage_buy/server.lua" type="server"/>
+	<script src="/garage_buy/client_buying.lua" type="client" cache="false"/>
+	
+	<script src="/vehicles/vehicles_positions.lua" type="server"/>
+	<script src="/vehicles/vehicles_info.lua" type="client" cache="false"/>
+
+	<script src="shared.lua" type="shared" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="/images/bg_buying.png" />
+	<file src="/images/button.png" />
+	<file src="/images/bg_info.png" />
+
+	<file src="roboto.ttf" />
+	<min_mta_version client="1.3.0-9.04431"/>
+</meta>

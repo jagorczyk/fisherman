@@ -1,0 +1,36 @@
+<meta>
+	<script src="client.lua" type="client" cache="false" />
+	<script src="animate.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+
+	<script src="orders/orders.lua" type="client" cache="false" />	
+	<script src="orders/paths.lua" type="server" />
+	<script src="orders/server.lua" type="server" />	
+
+	<script src="upgrades/upgrades.lua" type="server" />
+
+	<script src="markers.lua" type="server" cache="false" />
+	<script src="shared.lua" type="shared" cache="false" />
+	<oop>true</oop>
+	<file src="/images/truck.png" />
+	<file src="/images/bg.png" />
+	<file src="/images/button.png" />
+	<file src="/images/work_img.png" />
+	<file src="/images/slot.png" />
+	<file src="/images/fastcar.png" />
+	<file src="/images/buy.png" />
+	<file src="/images/money.png" />
+	<file src="/images/circle.png" />
+	<file src="/images/noavatar.png" />
+	<file src="/images/suitcase.png" />
+	<file src="/images/map.png" />
+	<file src="/images/panel.png" />
+	<file src="/images/button2.png" />
+	<file src="/images/pin.png" />
+	<file src="/images/delete.png" />
+
+	<file src="include/hud_mask.fx" cache="false" />
+	<file src="include/tex_matrix.fx" cache="false" />
+
+	<file src="Roboto.ttf" />
+</meta>

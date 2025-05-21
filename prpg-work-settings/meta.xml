@@ -1,0 +1,19 @@
+<meta>
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	<export function="showWorkingGui" type="client" />
+	<export function="setMoney" type="client" />
+	<export function="addMoney" type="client" />
+	<export function="setTitle" type="client" />
+	<export function="setText" type="client" />
+
+	<export function="showWorkingGui" type="server" />
+	<export function="setMoney" type="server" />
+	<export function="addMoney" type="server" />
+	<export function="setTitle" type="server" />
+	<export function="setText" type="server" />
+	<file src="/images/bg.png" />
+	<file src="/images/money.png" />
+	<file src="/images/time.png" />
+	<file src="Roboto.ttf" />
+</meta>
